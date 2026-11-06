@@ -1,0 +1,17 @@
+word_count,exclamations,money_words,all_caps,label
+10,7,4,4,spam
+14,3,3,0,spam
+12,1,0,2,spam
+16,3,3,1,spam
+26,0,5,0,spam
+10,6,2,5,spam
+14,0,0,0,spam
+14,2,3,2,spam
+18,0,0,0,legit
+26,0,3,0,legit
+14,5,0,0,legit
+19,0,0,3,legit
+18,0,0,0,legit
+30,0,0,0,legit
+22,0,6,0,legit
+16,1,0,0,legit

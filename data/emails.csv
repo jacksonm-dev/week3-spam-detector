@@ -1,0 +1,17 @@
+id,text,word_count,exclamations,money_words,all_caps,label
+1,CONGRATULATIONS!!! You WON a FREE prize! Claim your CASH now!!!,10,7,4,4,spam
+2,Make money fast! Earn $5000 a week from home. No experience needed! Click here!,14,3,3,0,spam
+3,URGENT: your account is LOCKED. Verify your details now to avoid suspension!,12,1,0,2,spam
+4,Lowest loan rates GUARANTEED! Bad credit? No problem! Apply today and get cash in 24 hours!,16,3,3,1,spam
+5,"Hi, I am a prince with 10 million dollars to transfer. I need your bank account and will pay you a generous share of the money.",26,0,5,0,spam
+6,LIMITED TIME OFFER!!! 90% discount on all watches. BUY NOW!!!,10,6,2,5,spam
+7,Your parcel could not be delivered. Please confirm your address at the link below.,14,0,0,0,spam
+8,You have been selected for a FREE cruise! Reply YES to win your prize!,14,2,3,2,spam
+9,"Hi Sam, are we still on for lunch on Thursday? I can book the place near the office.",18,0,0,0,legit
+10,"Attached is the invoice for October. Payment is due by the end of the month, and the refund from September has been applied to the total.",26,0,3,0,legit
+11,Happy birthday!!! Hope you have an amazing day! See you at the party tonight!,14,5,0,0,legit
+12,The NASA talk moved to room 204. Please bring your ID and the FAQ handout from the last session.,19,0,0,3,legit
+13,Reminder: the project report is due on Friday at noon. Let me know if you need more time.,18,0,0,0,legit
+14,"Mum says thanks for the flowers. She also wants to know whether you are coming home for the holidays, because she needs to plan the dinner and who sleeps where.",30,0,0,0,legit
+15,"Your rent share is 400 dollars this month. I paid the credit card bill, so you can send me the money whenever.",22,0,6,0,legit
+16,Great job on the demo today! The client loved it. Let's talk about next steps tomorrow.,16,1,0,0,legit

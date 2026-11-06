@@ -1,0 +1,4 @@
+text,word_count,exclamations,money_words,all_caps,urgency,call_to_action,label
+"URGENT, rent payment is past due and will be charged an extra fee of $100 if not paid by 10/5/26",20,0,4,1,1,0,legit
+"Hello, I'd like to get in touch about my offer earlier, it has been expanded to $350 if you would reconsider",21,0,2,0,0,0,legit
+"Your blackboard account has been compromised, please sign in here to change your credentials",14,0,0,0,0,0,spam
